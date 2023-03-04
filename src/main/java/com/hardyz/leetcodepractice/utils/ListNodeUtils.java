@@ -2,10 +2,6 @@ package com.hardyz.leetcodepractice.utils;
 
 import com.hardyz.leetcodepractice.entity.ListNode;
 
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Objects;
 
 public class ListNodeUtils {
 

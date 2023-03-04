@@ -1,6 +1,5 @@
 package com.hardyz.leetcodepractice.utils;
 
-import lombok.extern.slf4j.Slf4j;
 
 public class MathUtils {
     // 判断是否为2的整数幂次

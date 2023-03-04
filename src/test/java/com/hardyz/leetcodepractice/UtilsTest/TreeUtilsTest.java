@@ -2,13 +2,10 @@ package com.hardyz.leetcodepractice.UtilsTest;
 
 import com.hardyz.leetcodepractice.UnitTemplateTest;
 import com.hardyz.leetcodepractice.entity.TreeNode;
-import com.hardyz.leetcodepractice.utils.MathUtils;
 import com.hardyz.leetcodepractice.utils.TreeUtils;
 import org.assertj.core.util.Lists;
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
-import java.util.List;
 
 public class TreeUtilsTest extends UnitTemplateTest {
 
